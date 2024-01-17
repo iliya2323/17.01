@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.chek{
+    margin-top: -5%;
+    margin-left: 42%;
+    
+}
+.all{
+    margin-left: 40%;
+
+}
